@@ -1,0 +1,58 @@
+about:
+  description: "Hey, Computer" from Star Trek. Talk to your agent. Run hooks after trigger comands. Runs locally, cause shit's scary.
+  license: MIT
+  homepage: https://brabble.dev
+  head: 6a34e7f
+  archived: false
+  latestVersion: v0.1.1
+  collectedAt: 2026-08-31T05:37:51Z
+timeline:
+  created: 2025-12-03
+  lastCommit: 2026-07-13
+  lastRelease: 2026-06-11
+popularity:
+  star: 168
+  watcher: 1
+  fork: 23
+  release: 2
+  contributor: 2
+  pullRequest: 0
+  issue: 0
+language:
+  Go: 96821
+  Makefile: 1061
+  Shell: 148
+totalLine: 98030
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-02
+    release: 1
+    mergedPR: 7
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 13
+  last180d:
+    since: 2026-03-04
+    release: 1
+    mergedPR: 7
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 17
+  last360d:
+    since: 2025-09-05
+    release: 2
+    mergedPR: 7
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 106
