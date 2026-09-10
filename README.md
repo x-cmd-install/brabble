@@ -23,7 +23,6 @@ x install brabble
 - **Latest**: `v0.1.1` (2026-06-11)
 - **Last commit**: 2026-09-04
 - **Assets in release**: 2
-- **Published**: 2026-06-11T04:58:23Z
 
 ## Popularity
 
@@ -53,13 +52,20 @@ Total: **3,355** lines of code across **47** files in the top 5 languages.
 | Sh | 7 | 1 | 1 | 1 |
 | Yaml | 6 | 0 | 3 | 1 |
 
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [brabble_0.1.1_darwin_arm64.tar.gz](https://github.com/steipete/brabble/releases/download/v0.1.1/brabble_0.1.1_darwin_arm64.tar.gz) | 3.7 MiB | `native/darwin/arm64` |
+| [checksums.txt](https://github.com/steipete/brabble/releases/download/v0.1.1/checksums.txt) | 100 B | `other` |
+
 ## Improve this data
 
 Install metadata for brabble lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `brabble` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/brabble.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/brabble.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T06:18:17Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T18:30:21Z._

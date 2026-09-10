@@ -4,7 +4,7 @@
 
 "Hey, Computer" from Star Trek. Talk to your agent. Run hooks after trigger comands. Runs locally, cause shit's scary.
 
-![brabble](https://repo.x-cmd.io/brabble.svg)
+![brabble](https://repo.x-cmd.io/brabble.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,6 @@ x install brabble
 - **最新版本**: `v0.1.1` (2026-06-11)
 - **最近提交**: 2026-09-04
 - **Release 含资产**: 2 个
-- **发布时间**: 2026-06-11T04:58:23Z
 
 ## 流行度
 
@@ -53,6 +52,13 @@ x install brabble
 | Sh | 7 | 1 | 1 | 1 |
 | Yaml | 6 | 0 | 3 | 1 |
 
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [brabble_0.1.1_darwin_arm64.tar.gz](https://github.com/steipete/brabble/releases/download/v0.1.1/brabble_0.1.1_darwin_arm64.tar.gz) | 3.7 MiB | `native/darwin/arm64` |
+| [checksums.txt](https://github.com/steipete/brabble/releases/download/v0.1.1/checksums.txt) | 100 B | `other` |
+
 ## 改进这些数据
 
 brabble 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `brabble` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -62,4 +68,4 @@ brabble 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:18:17Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T18:30:21Z._
