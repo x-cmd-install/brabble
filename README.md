@@ -14,12 +14,12 @@ x install brabble
 
 ## Code insight
 
-Total: **3,355** lines of code across **47** files in the top 5 languages.
+Total: **3,477** lines of code across **49** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 3,307 | 97 | 359 | 43 |
-| Makefile | 20 | 1 | 6 | 1 |
+| Go | 3,427 | 99 | 365 | 45 |
+| Makefile | 22 | 1 | 6 | 1 |
 | Json | 15 | 0 | 0 | 1 |
 | Sh | 7 | 1 | 1 | 1 |
 | Yaml | 6 | 0 | 3 | 1 |
@@ -33,7 +33,7 @@ Total: **3,355** lines of code across **47** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.1.1` (2026-06-11)
-- **Last commit**: 2026-09-04
+- **Last commit**: 2026-09-12
 - **Assets in release**: 2
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **3,355** lines of code across **47** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 116
+- **Releases**: 2 · **Merged PRs**: 11 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 118
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-07-13 | 0 | 2 | 0 | 0 | 0 | 2 |
-| 90d | 2026-06-13 | 0 | 9 | 0 | 0 | 0 | 10 |
-| last180d | 2026-03-15 | 1 | 9 | 0 | 0 | 0 | 19 |
-| 360d | 2025-09-16 | 2 | 9 | 0 | 0 | 0 | 108 |
-| last720d | 2024-09-21 | 2 | 9 | 0 | 0 | 0 | 116 |
+| 30d | 2026-08-13 | 0 | 4 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-14 | 0 | 4 | 0 | 0 | 0 | 4 |
+| 90d | 2026-06-14 | 0 | 11 | 0 | 0 | 0 | 12 |
+| last180d | 2026-03-16 | 1 | 11 | 0 | 0 | 0 | 21 |
+| 360d | 2025-09-17 | 2 | 11 | 0 | 0 | 0 | 110 |
+| last720d | 2024-09-22 | 2 | 11 | 0 | 0 | 0 | 118 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for brabble lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:25:51Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T06:02:15Z._
