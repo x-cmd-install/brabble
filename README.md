@@ -14,11 +14,11 @@ x install brabble
 
 ## Code insight
 
-Total: **3,477** lines of code across **49** files in the top 5 languages.
+Total: **3,482** lines of code across **49** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 3,427 | 99 | 365 | 45 |
+| Go | 3,432 | 99 | 365 | 45 |
 | Makefile | 22 | 1 | 6 | 1 |
 | Json | 15 | 0 | 0 | 1 |
 | Sh | 7 | 1 | 1 | 1 |
@@ -32,8 +32,8 @@ Total: **3,477** lines of code across **49** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.1.1` (2026-06-11)
-- **Last commit**: 2026-09-12
+- **Latest**: `v0.1.3` (2026-09-14)
+- **Last commit**: 2026-09-14
 - **Assets in release**: 2
 
 ## Popularity
@@ -42,25 +42,25 @@ Total: **3,477** lines of code across **49** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 11 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 118
+- **Releases**: 4 · **Merged PRs**: 12 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 123
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 4 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 4 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 11 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 1 | 11 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-18 | 2 | 11 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-23 | 2 | 11 | 0 | 0 | 0 | 118 |
+| 30d | 2026-08-15 | 2 | 5 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 2 | 5 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 2 | 12 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 3 | 12 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-19 | 4 | 12 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-24 | 4 | 12 | 0 | 0 | 0 | 123 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [brabble_0.1.1_darwin_arm64.tar.gz](https://github.com/steipete/brabble/releases/download/v0.1.1/brabble_0.1.1_darwin_arm64.tar.gz) | 3.7 MiB | `native/darwin/arm64` |
-| [checksums.txt](https://github.com/steipete/brabble/releases/download/v0.1.1/checksums.txt) | 100 B | `other` |
+| [brabble_0.1.3_darwin_arm64.tar.gz](https://github.com/steipete/brabble/releases/download/v0.1.3/brabble_0.1.3_darwin_arm64.tar.gz) | 5.3 MiB | `native/darwin/arm64` |
+| [checksums.txt](https://github.com/steipete/brabble/releases/download/v0.1.3/checksums.txt) | 100 B | `other` |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for brabble lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:21:48Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:41:20Z._
