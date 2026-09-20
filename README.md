@@ -4,7 +4,7 @@
 
 "Hey, Computer" from Star Trek. Talk to your agent. Run hooks after trigger comands. Runs locally, cause shit's scary.
 
-![brabble](https://repo.x-cmd.io/brabble.svg)
+[![x-cmd/install — brabble Code Quality Monitoring Repo Card](https://repo.x-cmd.io/brabble.svg)](https://x-cmd.com/install/brabble)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **3,482** lines of code across **49** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 5 | 0 | 0 | 0 | 10 |
-| last60d | 2026-07-20 | 2 | 5 | 0 | 0 | 0 | 10 |
-| 90d | 2026-06-20 | 2 | 12 | 0 | 0 | 0 | 18 |
-| last180d | 2026-03-22 | 3 | 12 | 0 | 0 | 0 | 27 |
-| 360d | 2025-09-23 | 4 | 12 | 0 | 0 | 0 | 116 |
-| last720d | 2024-09-28 | 4 | 12 | 0 | 0 | 0 | 124 |
+| 30d | 2026-08-21 | 2 | 5 | 0 | 0 | 0 | 10 |
+| last60d | 2026-07-22 | 2 | 5 | 0 | 0 | 0 | 10 |
+| 90d | 2026-06-22 | 2 | 12 | 0 | 0 | 0 | 17 |
+| last180d | 2026-03-24 | 3 | 12 | 0 | 0 | 0 | 27 |
+| 360d | 2025-09-25 | 4 | 12 | 0 | 0 | 0 | 116 |
+| last720d | 2024-09-30 | 4 | 12 | 0 | 0 | 0 | 124 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for brabble lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:34:31Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:32:59Z._
