@@ -38,7 +38,7 @@ Total: **3,482** lines of code across **49** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 171 · **Forks**: 25 · **Open issues**: 0 · **Contributors**: 3
+- **Stars**: 172 · **Forks**: 25 · **Open issues**: 0 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **3,482** lines of code across **49** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 2 | 5 | 0 | 0 | 0 | 9 |
-| last60d | 2026-07-31 | 2 | 5 | 0 | 0 | 0 | 10 |
-| 90d | 2026-07-01 | 2 | 6 | 0 | 0 | 0 | 11 |
-| last180d | 2026-04-02 | 3 | 12 | 0 | 0 | 0 | 27 |
-| 360d | 2025-10-04 | 4 | 13 | 0 | 0 | 0 | 116 |
-| last720d | 2024-10-09 | 4 | 13 | 0 | 0 | 0 | 124 |
+| 30d | 2026-08-31 | 2 | 4 | 0 | 0 | 0 | 9 |
+| last60d | 2026-08-01 | 2 | 5 | 0 | 0 | 0 | 10 |
+| 90d | 2026-07-02 | 2 | 6 | 0 | 0 | 0 | 11 |
+| last180d | 2026-04-03 | 3 | 12 | 0 | 0 | 0 | 27 |
+| 360d | 2025-10-05 | 4 | 13 | 0 | 0 | 0 | 116 |
+| last720d | 2024-10-10 | 4 | 13 | 0 | 0 | 0 | 124 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for brabble lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T07:09:24Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T07:00:04Z._
