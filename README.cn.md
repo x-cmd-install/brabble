@@ -14,11 +14,11 @@ x install brabble
 
 ## 代码洞察
 
-合计: **3,482** 行代码（覆盖前 5 种语言、共 **49** 个文件）。
+合计: **3,558** 行代码（覆盖前 5 种语言、共 **51** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 3,432 | 99 | 365 | 45 |
+| Go | 3,508 | 100 | 370 | 47 |
 | Makefile | 22 | 1 | 6 | 1 |
 | Json | 15 | 0 | 0 | 1 |
 | Sh | 7 | 1 | 1 | 1 |
@@ -32,35 +32,35 @@ x install brabble
 
 ## 发布
 
-- **最新版本**: `v0.1.4` (2026-10-21)
-- **最近提交**: 2026-10-21
+- **最新版本**: `v0.1.5` (2026-10-24)
+- **最近提交**: 2026-10-24
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 172 · **Fork**: 25 · **开放 issue**: 0 · **贡献者**: 3
+- **Star**: 172 · **Fork**: 25 · **开放 issue**: 0 · **贡献者**: 4
 
 ## 累计统计
 
-- **发布数**: 5 · **已合并 PR**: 15 · **开放 PR**: 1 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 126
+- **发布数**: 6 · **已合并 PR**: 17 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 128
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 2 | 1 | 0 | 0 | 2 |
-| last60d | 2026-08-24 | 3 | 7 | 1 | 0 | 0 | 12 |
-| 90d | 2026-07-25 | 3 | 7 | 1 | 0 | 0 | 12 |
-| last180d | 2026-04-26 | 4 | 14 | 1 | 0 | 0 | 27 |
-| 360d | 2025-10-28 | 5 | 15 | 1 | 0 | 0 | 118 |
-| last720d | 2024-11-02 | 5 | 15 | 1 | 0 | 0 | 126 |
+| 30d | 2026-09-24 | 2 | 4 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-25 | 4 | 9 | 0 | 0 | 0 | 14 |
+| 90d | 2026-07-26 | 4 | 9 | 0 | 0 | 0 | 14 |
+| last180d | 2026-04-27 | 5 | 16 | 0 | 0 | 0 | 29 |
+| 360d | 2025-10-29 | 6 | 17 | 0 | 0 | 0 | 120 |
+| last720d | 2024-11-03 | 6 | 17 | 0 | 0 | 0 | 128 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [brabble_0.1.4_darwin_arm64.tar.gz](https://github.com/steipete/brabble/releases/download/v0.1.4/brabble_0.1.4_darwin_arm64.tar.gz) | 5.3 MiB | `native/darwin/arm64` |
-| [checksums.txt](https://github.com/steipete/brabble/releases/download/v0.1.4/checksums.txt) | 100 B | `other` |
+| [brabble_0.1.5_darwin_arm64.tar.gz](https://github.com/steipete/brabble/releases/download/v0.1.5/brabble_0.1.5_darwin_arm64.tar.gz) | 5.3 MiB | `native/darwin/arm64` |
+| [checksums.txt](https://github.com/steipete/brabble/releases/download/v0.1.5/checksums.txt) | 100 B | `other` |
 
 ## 改进这些数据
 
@@ -71,4 +71,4 @@ brabble 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261023.yml` · 2026-10-23T06:07:44Z._
+_数据快照: `data/card/261024.yml` · 2026-10-24T05:53:57Z._
