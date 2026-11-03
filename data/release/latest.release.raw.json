@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5540044,
       "digest": "sha256:64fd0b05bcfdd45fb86ee3affc5c3238824d75bdc0978b90151db0a0cd1cc97b",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-24T01:08:49Z",
       "updated_at": "2026-10-24T01:08:50Z",
       "browser_download_url": "https://github.com/steipete/brabble/releases/download/v0.1.5/brabble_0.1.5_darwin_arm64.tar.gz"
