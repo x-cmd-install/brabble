@@ -48,12 +48,12 @@ Total: **3,558** lines of code across **51** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 2 | 4 | 4 | 0 | 0 | 4 |
-| last60d | 2026-09-12 | 4 | 5 | 4 | 0 | 0 | 4 |
-| 90d | 2026-08-13 | 4 | 9 | 4 | 0 | 0 | 14 |
-| last180d | 2026-05-15 | 5 | 16 | 4 | 0 | 0 | 27 |
-| 360d | 2025-11-16 | 6 | 17 | 4 | 0 | 0 | 120 |
-| last720d | 2024-11-21 | 6 | 17 | 4 | 0 | 0 | 128 |
+| 30d | 2026-10-13 | 2 | 4 | 4 | 0 | 0 | 4 |
+| last60d | 2026-09-13 | 4 | 5 | 4 | 0 | 0 | 4 |
+| 90d | 2026-08-14 | 4 | 9 | 4 | 0 | 0 | 14 |
+| last180d | 2026-05-16 | 5 | 16 | 4 | 0 | 0 | 27 |
+| 360d | 2025-11-17 | 6 | 17 | 4 | 0 | 0 | 120 |
+| last720d | 2024-11-22 | 6 | 17 | 4 | 0 | 0 | 128 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for brabble lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:24:17Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T09:14:02Z._
