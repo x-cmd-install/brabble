@@ -14,11 +14,11 @@ x install brabble
 
 ## Code insight
 
-Total: **3,701** lines of code across **51** files in the top 5 languages.
+Total: **3,892** lines of code across **51** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 3,651 | 102 | 386 | 47 |
+| Go | 3,842 | 103 | 403 | 47 |
 | Makefile | 22 | 1 | 6 | 1 |
 | Json | 15 | 0 | 0 | 1 |
 | Sh | 7 | 1 | 1 | 1 |
@@ -38,22 +38,22 @@ Total: **3,701** lines of code across **51** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 172 · **Forks**: 25 · **Open issues**: 0 · **Contributors**: 4
+- **Stars**: 173 · **Forks**: 25 · **Open issues**: 0 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 18 · **Open PRs**: 1 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 129
+- **Releases**: 6 · **Merged PRs**: 19 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 130
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 2 | 5 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-15 | 2 | 5 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-16 | 4 | 10 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-18 | 5 | 17 | 1 | 0 | 0 | 0 |
-| 360d | 2025-11-19 | 6 | 18 | 1 | 0 | 0 | 0 |
-| last720d | 2024-11-24 | 6 | 18 | 1 | 0 | 0 | 129 |
+| 30d | 2026-10-16 | 2 | 6 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-16 | 2 | 6 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-17 | 4 | 11 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-19 | 5 | 18 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-20 | 6 | 19 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-25 | 6 | 19 | 0 | 0 | 0 | 130 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for brabble lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:22:41Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:22:06Z._
