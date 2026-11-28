@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5550226,
       "digest": "sha256:9362474a17060ce94c78650a766f53d328423c9dc12277ef4e4e54c160d3f2d3",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-16T07:34:17Z",
       "updated_at": "2026-11-16T07:34:17Z",
       "browser_download_url": "https://github.com/steipete/brabble/releases/download/v0.1.6/brabble_0.1.6_darwin_arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:251c5ce56d7f1c927b97646ea71def7aac2a402626344a0a2dfd2229cd6303f2",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T07:34:17Z",
       "updated_at": "2026-11-16T07:34:17Z",
       "browser_download_url": "https://github.com/steipete/brabble/releases/download/v0.1.6/checksums.txt"
